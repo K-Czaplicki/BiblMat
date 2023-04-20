@@ -22,8 +22,8 @@ All functions of library are written in ListOfOperations.txt
 
 ## Authors
 
-- [@morzelo1](https://gitlab-stud.elka.pw.edu.pl/morzelo1)
-- [@kczaplic](https://gitlab-stud.elka.pw.edu.pl/kczaplic)
+- [@morzelowski](https://github.com/morzelowski)
+- [@K-Czaplicki](https://github.com/K-Czaplicki)
 - [@rkowalcz](https://gitlab-stud.elka.pw.edu.pl/rkowalcz)
 
 ## License
