@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------------------------------------
+Działania na macierzach :                   v1:      Testy:   NewC:  Testy NewC:  v2:    TestyV2:
+- dodawanie                                  Done     Done     Done      Done      Done     Done
+- odejmowanie                                Done     Done     Done      Done      Done     Done
+- mnożenie                                   Done     Done     Done      Done      Done     Done
+- mnożenie macierzy przez skalar             Done     Done     Done      Done      Done     Done
+- odwracanie macierzy                        Done     Done     Done      Done      Done     Done
+- transponowanie macierzy                    Done     Done     Done      Done      Done     Done
+- obliczanie wyznacznika macierzy            Done     Done     Done      Done      Done     Done
+- ślad macierzy                              Done     Done     Done      Done      Done     Done
+- minor macierzy                             Done     Done     Done      Done      Done     Done
+- macierz dopełnień algebraicznych           Done     Done     Done      Done      Done     Done
+- set                                        Done     -        Done      Done      Done     Done
+- get                                        Done     -        Done      Done      Done     Done
+- Dowolna funkcja na każdym elemencie        Done     Done     Done      Done      Done     Done
+- Usuwanie wiersza                           Done     Done     Done      Done      Done     Done
+- Usuwanie kolumny                           Done     Done     Done      Done      Done     Done
+- Suma elementow                             Done     Done     Done      Done      Done     Done
+- Generate random                            Done     -        -         -         Done     -
+- Dodawanie kolumn                           Done     Done     Done      Done      Done     Done
+- Dodawanie wiersza                          Done     Done     Done      Done      Done     Done
+------------------------------------------------------------------------------------------------------------------------
+Działania na wektorach :                    v1:      Testy:   NewC:  Testy NewC:  v2:    TestyV2:
+- dodawanie                                  Done     Done     Done      Done      Done     Done
+- odejmowanie                                Done     Done     Done      Done      Done     Done
+- porównywanie wektorów (czy takie same)     Done     Done     Done      Done      Done     Done
+- mnożenie przez liczbę                      Done     Done     Done      Done      Done     Done
+- obliczanie iloczynu skalarnego             Done     Done     Done      Done      Done     Done
+- obliczanie iloczynu wektorowego            Done     Done     Done      Done      Done     Done
+- przeciwny wektor                           Done     Done     Done      Done      Done     Done
+- wypisanie postaci polar                    Done     Done     Done      Done      Done     Done
+- wypisanie postaci rectangular              Done     -        Done      -         Done     Done
+- dlugosc wektora                            Done     Done     Done      Done      Done     Done
+- porównanie wektorów (czy równoległe)       Done     Done     Done      Done      Done     Done
+- porównanie wektorów (czy prostpadle)       Done     Done     Done      Done      Done     Done
+- set                                        Done     -        Done      Done      Done     Done
+- get                                        Done     -        Done      Done      Done     Done
+- Dowolna funkcja na każdym elemencie        Done     Done     Done      Done      Done     Done
+------------------------------------------------------------------------------------------------------------------------
